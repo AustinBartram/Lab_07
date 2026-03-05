@@ -12,6 +12,7 @@ In this lab you've learned the basics of number theory as it relates to subtract
 | Question 3 | Your answers to the question | 25% |
 
 ## Names
+- Colby Allen, Austin Bartram
 
 ## Summary
 - We learned a lot in this lab, including how to write a half subtractor, write a module for one's complement, and two's complement through the use of full adders and then tie it all together. We also learned to debug different Vivado errors.
